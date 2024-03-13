@@ -10,6 +10,19 @@ print("Loop concluído")
 for i in range(5):
     print("O valor de i é", i)
 print("Loop concluído")
+resultado: O contador está em 0
+O contador está em 1
+O contador está em 2
+O contador está em 3
+O contador está em 4
+Loop concluído
+O valor de i é 0
+O valor de i é 1
+O valor de i é 2
+O valor de i é 3
+O valor de i é 4
+Loop concluído
+> 
 
 codigo de tomada de decisão
 # Solicita ao usuário que insira um número
@@ -22,3 +35,5 @@ elif numero < 0:
     print("O número é negativo.")
 else:
     print("O número é zero.")
+resultado: Digite um número: 3
+O número é positivo.
